@@ -23,8 +23,8 @@ def cartaAleatoria():
     print(cartaAleatoria)
     
 
-mano = PhotoImage( file = "ATTACK.png")
-etiqueta = Label(ventana , image =mano ,width = 15 , height = 15   )
+#mano = PhotoImage( file = "ATTACK.png")
+#etiqueta = Label(ventana , image =mano ,width = 15 , height = 15   )
 
 
 carta = tk,Button(ventana,
