@@ -13,18 +13,6 @@ ventana.config( bg = "lightgreen")
 
 
 
-#cartas = [DEFUSE.png , ATTACK.png , BOMB.png , COMODIN1.png , COMODIN2.png , COMODIN3.png,
-#COMODIN4.png , COMODIN5.png  , FAVOR.png , NOPE.png , SEETHEFUTURE.png , SHUFFLE.png , SKIP.png  ]
-
-
-
-def cartaAleatoria():
-    cartaAleatoria = random.choice(cartas)
-    print(cartaAleatoria)
-    
-
-#mano = PhotoImage( file = "ATTACK.png")
-#etiqueta = Label(ventana , image =mano ,width = 15 , height = 15   )
 
 
 carta = tk,Button(ventana,
